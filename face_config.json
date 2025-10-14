@@ -1,0 +1,7 @@
+{
+    "confidence_face": 0.3,
+    "confidence_gender": 0.3,
+    "confidence_emotion": 0.3,
+    "resize_resolution": "1280x720",
+    "source_video": 0
+}
