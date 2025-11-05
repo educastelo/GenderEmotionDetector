@@ -208,3 +208,5 @@ __marimo__/
 
 models/emotion.pt
 models/gender.pt
+*avi
+*mp4
